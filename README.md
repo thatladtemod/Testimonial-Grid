@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click here](https://github.com/thatladtemod/Testimonial-Grid)
-- Live Site URL: [Click here](http://testimonial-grid-liart.vercel.app/)
+- Live Site URL: [Click here](https://testimonial-grid-liart.vercel.app/)
 
 ## My process
 
