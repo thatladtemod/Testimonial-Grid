@@ -8,7 +8,7 @@ export default function Testimonial(props) {
                     <img className="pfp" src={props.src} alt={props.alt} />
                 </div>
                 <div className="info">
-                    <h5>{props.name}</h5>
+                    <h4>{props.name}</h4>
                     <small>Verified Graduate</small>
                 </div>
             </div>
