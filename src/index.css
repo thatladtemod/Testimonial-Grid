@@ -9,7 +9,7 @@ body {
   align-items: center;
   background-color: hsl(214, 17%, 92%);
   padding: 2rem;
-  font-family: "barlow semi condensed";
+  font-family: "Barlow Semi Condensed";
 }
 .grid-container {
   display: grid;
